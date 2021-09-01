@@ -72,7 +72,6 @@ Read more from [here](https://laravel.com/docs/8.x/queues#running-the-queue-work
 /api/websites/{website}/post
 ```
 ## License
-
-MIT
+FREE
 
 **Free Software!**
