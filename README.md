@@ -55,7 +55,20 @@ Read more from [here](https://laravel.com/docs/8.x/queues#running-the-queue-work
     php artisan view:cache
 ```
 
+##API END POINTS
+--Listing the Users
+/api/users
 
+- Listing the websites
+/api/websites
+
+-- Creating Subscribers
+
+/api/websites/{website}/subscribe/{user}
+
+-- Creating Posts
+
+/api/websites/{website}/post
 
 ## License
 
