@@ -6,8 +6,6 @@ This is the test Project
 ## Installation
 
 - clone the repo on the local system.
-- checkout the `dev` branch.
-- create a new branch from the `dev` branch. The branch name should be valid and related to the work. For case, if you
 - copy the content of the .env.example to make .env file. It can be done by executing the command "cp .env.example .env"
   . and make the changes in the .env file according to your environment.
 
@@ -23,10 +21,10 @@ To Database and seeding the data.
 
 - Run the "php artisan migrate" to make the tables. Don't forget to make the database first and mention it in the .env
   file.
-- The project's admin section is built using backpack so run the "php artisan db:seed" to seed the database.
+- run the "php artisan db:seed" to seed the database.
 - No auth required
 
-## Start the dev server
+## Start the server
 
 - Run the following to start the backend section.
 
@@ -41,10 +39,6 @@ php artisan serve
 Verify the deployment by navigating to your server address in your preferred browser.
 
 > http://127.0.0.1:8000
-
-## Caveats and solutions
-
-Read more from [here](https://laravel.com/docs/8.x/queues#running-the-queue-worker).
 
 ## Production
 
