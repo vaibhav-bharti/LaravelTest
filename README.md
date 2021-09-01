@@ -56,6 +56,7 @@ Read more from [here](https://laravel.com/docs/8.x/queues#running-the-queue-work
 ```
 
 ##API END POINTS
+```sh
 --Listing the Users
 /api/users
 
@@ -69,7 +70,7 @@ Read more from [here](https://laravel.com/docs/8.x/queues#running-the-queue-work
 -- Creating Posts
 
 /api/websites/{website}/post
-
+```
 ## License
 
 MIT
