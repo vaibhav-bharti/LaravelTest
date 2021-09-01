@@ -71,7 +71,7 @@ Read more from [here](https://laravel.com/docs/8.x/queues#running-the-queue-work
 
 /api/websites/{website}/post
 ```
-## License
-FREE
+## POSTMAN LINK FOR APIs
+https://www.getpostman.com/collections/e7b56b49132bee375926
 
 **Free Software!**
